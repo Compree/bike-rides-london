@@ -1,8 +1,12 @@
 = Planning for Bike Rides from London
 
-DMK Denmark Hill
-SAY Swanley
+[cols="1,1"]
+|===
+|DMK, Denmark Hill
+|SAY, Swanley
 
-10:54
-11:02
-11:24
+[cols="1,1"]
+|===
+|10:54,11:30
+|11:02,11:30
+|11:24,12:00
