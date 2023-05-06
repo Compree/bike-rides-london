@@ -86,7 +86,7 @@
 
 |===
 
-== Live Departures
+== Live Departure Boards
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/NHD[Live from Nunhead]
 
