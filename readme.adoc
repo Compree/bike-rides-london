@@ -138,6 +138,11 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 |300 ft
 |0:30
 
+|Total
+|X
+|X
+|4:30
+
 
 |===
 
