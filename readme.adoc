@@ -109,8 +109,14 @@ https://www.strava.com/routes/3090040279279305744[Lanes3]
 [cols="1,1,1"]
 |===
 
-|Distance|Climb|Duration
+|Section|Distance|Climb|Duration
 
+|To Train
+|4.7 mile
+|300 ft
+|0:30:00
+
+|Ride
 |41.35 km
 |575 m
 |2:12:41
