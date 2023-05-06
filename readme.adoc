@@ -109,6 +109,8 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/NHD[Live from Nunhead]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
 
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
+
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
 
 https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
