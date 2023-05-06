@@ -34,6 +34,9 @@
 |EGR
 |East Grinstead
 
+|VIC
+|London Victoria
+
 |===
 
 [cols="1,1,1,1"]
@@ -100,8 +103,31 @@
 |10:37
 |11:11
 
+|NWD
+|LFD
+|11:07
+|11:44
+
+
+|LFD
+|NWD
+|15:19
+|15:57
+
+
+|LFD
+|NWD
+|15:49
+|16:28
+
+
 
 |===
+
+== Train fares
+
+NWD to LFD return £12.50
+
 
 == Departures
 
