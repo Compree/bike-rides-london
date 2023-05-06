@@ -123,16 +123,15 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 |X
 |0:37
 
-|LFD/NWD
-|X
-|X
-|0:37
-
 |Ride
 |41.35 km
 |575 m
 |2:12
 
+|LFD/NWD
+|X
+|X
+|0:37
 
 
 
