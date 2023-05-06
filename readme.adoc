@@ -90,13 +90,11 @@
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/NHD[Live from Nunhead]
 
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
-
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
 
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
+
 
 https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
 
@@ -105,6 +103,10 @@ https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departure
 === Lanes 3
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 
 [cols="1,1,1,1"]
 |===
