@@ -102,11 +102,26 @@ https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departure
 
 == Strava Routes
 
+=== Lanes 3
+
+https://www.strava.com/routes/3090040279279305744[Lanes3]
+
+[cols="1,1,1,1"]
+|===
+|Distance|Climb|Duration
+
+|41.35 km
+|575 m
+|2:12:41
+
+|===
+
+=== Orpington Ightham return
+
 https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
 
 https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
 
-https://www.strava.com/routes/3090040279279305744[Lanes3]
 
 === Scheduled Departures
 
