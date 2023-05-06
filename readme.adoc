@@ -16,7 +16,7 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 
-https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/tomorrow/1030/dep/tomorrow/1230/dep[NWD/LFD National Rail tomorrow! departing 10:30]
+https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/today/1230/dep[NWD/LFD National Rail today departing 10:30]
 
 
 [cols="1,1,1,1"]
