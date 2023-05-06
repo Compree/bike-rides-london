@@ -1,7 +1,5 @@
 = Planning for Bike Rides from London
 
----
-
 == Cut down timetable
 
 [cols="1,1,1,1"]
@@ -86,13 +84,7 @@
 |16:28
 
 
-
 |===
-
-== Train fares
-
-NWD to LFD return £12.50
-
 
 == Live Departures
 
@@ -165,3 +157,8 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 |London Victoria
 
 |===
+
+
+== Train fares
+
+NWD to LFD return £12.50
