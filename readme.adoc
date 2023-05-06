@@ -113,7 +113,7 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 
 |Section|Distance|Climb|Duration
 
-|To Train
+|Train Home
 |4.7 mile
 |300 ft
 |0:30
@@ -133,6 +133,10 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 |X
 |0:37
 
+|Train Home
+|4.7 mile
+|300 ft
+|0:30
 
 
 |===
