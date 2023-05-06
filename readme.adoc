@@ -106,7 +106,7 @@ https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departure
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
 
-[cols="1,1,1"]
+[cols="1,1,1,1"]
 |===
 
 |Section|Distance|Climb|Duration
@@ -114,12 +114,17 @@ https://www.strava.com/routes/3090040279279305744[Lanes3]
 |To Train
 |4.7 mile
 |300 ft
-|0:30:00
+|0:30
+
+|Train
+|X
+|X
+|0:37
 
 |Ride
 |41.35 km
 |575 m
-|2:12:41
+|2:12
 
 |===
 
