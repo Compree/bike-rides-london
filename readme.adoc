@@ -114,9 +114,9 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 |Section|Distance|Climb|Duration
 
 |Home NWD
-|4.7 mile
-|300 ft
-|0:30
+|7.35 km
+|97 m
+|0:24
 
 |NWD/LFD
 |X
