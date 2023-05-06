@@ -1,44 +1,5 @@
 = Planning for Bike Rides from London
 
-[cols="1,1"]
-|===
-|Code|Station
-
-|DMK
-|Denmark Hill
-
-|PMR
-|Peckham Rye
-
-|NHD
-|Nunhead
-
-|SAY
-|Swanley
-
-|ORP
-|Orpington
-
-|WDU
-|West Dulwich
-
-|NWD
-|Norwood Junction
-
-|LFD
-|Lingfield
-
-|LBG
-|London Bridge
-
-|EGR
-|East Grinstead
-
-|VIC
-|London Victoria
-
-|===
-
 ---
 
 == Cut down timetable
@@ -163,3 +124,44 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/tomorrow/1030/dep/t
 
 https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:15]
 
+
+== Station Codes
+
+[cols="1,1"]
+|===
+|Code|Station
+
+|DMK
+|Denmark Hill
+
+|PMR
+|Peckham Rye
+
+|NHD
+|Nunhead
+
+|SAY
+|Swanley
+
+|ORP
+|Orpington
+
+|WDU
+|West Dulwich
+
+|NWD
+|Norwood Junction
+
+|LFD
+|Lingfield
+
+|LBG
+|London Bridge
+
+|EGR
+|East Grinstead
+
+|VIC
+|London Victoria
+
+|===
