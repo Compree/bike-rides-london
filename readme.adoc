@@ -106,8 +106,9 @@ https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departure
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
 
-[cols="1,1,1,1"]
+[cols="1,1,1"]
 |===
+
 |Distance|Climb|Duration
 
 |41.35 km
