@@ -28,6 +28,12 @@
 |LFD
 |Lingfield
 
+|LBG
+|London Bridge
+
+|EGR
+|East Grinstead
+
 |===
 
 [cols="1,1,1,1"]
@@ -89,6 +95,11 @@
 |17:24
 |17:50
 
+|NWD
+|LFD
+|10:37
+|11:11
+
 
 |===
 
@@ -100,6 +111,7 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
 
+https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
 
 == Strava Routes
 
@@ -113,8 +125,8 @@ https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
 
 https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/070523/1030/dep[DMK/SAY National Rail 2023-05-07 departing 10:30]
 
-https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
 
+https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/tomorrow/1030/dep/tomorrow/1230/dep[NWD/LFD National Rail tomorrow! departing 10:30]
 
-https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:30]
+https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:15]
 
