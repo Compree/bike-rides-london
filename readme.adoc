@@ -1,5 +1,108 @@
 = Planning for Bike Rides from London
 
+== Routes
+
+=== Lanes 3
+
+==== Strava Bike Routes
+
+https://www.strava.com/routes/3090071398187569168[Dul-NWD]
+
+https://www.strava.com/routes/3090040279279305744[Lanes3]
+
+==== Trains
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
+
+https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/tomorrow/1030/dep/tomorrow/1230/dep[NWD/LFD National Rail tomorrow! departing 10:30]
+
+
+[cols="1,1,1,1"]
+|===
+|From|To|Dep|Arr
+
+
+|NWD
+|LFD
+|10:37
+|11:11
+
+|NWD
+|LFD
+|11:07
+|11:44
+
+
+|LFD
+|NWD
+|15:19
+|15:57
+
+
+|LFD
+|NWD
+|15:49
+|16:28
+
+
+|===
+==== Timings
+
+[cols="1,1,1,1"]
+|===
+
+|Section|Distance|Climb|Duration
+
+|Home NWD
+|7.35 km
+|97 m
+|0:24
+
+|NWD/LFD
+|X
+|X
+|0:37
+
+|Ride
+|41.35 km
+|575 m
+|2:12
+
+|LFD/NWD
+|X
+|X
+|0:37
+
+|NWD Home
+|4.7 mile
+|300 ft
+|0:30
+
+|Total
+|X
+|X
+|4:30
+
+
+|===
+
+=== Orpington Ightham return
+
+https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
+
+https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
+
+
+=== Scheduled Departures
+
+https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/070523/1030/dep[DMK/SAY National Rail 2023-05-07 departing 10:30]
+
+
+https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:15]
+
+
 == Cut down timetable
 
 [cols="1,1,1,1"]
@@ -95,81 +198,7 @@ https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
 
 
-
 https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
-
-== Routes
-
-=== Lanes 3
-
-==== Strava Bike Routes
-
-https://www.strava.com/routes/3090071398187569168[Dul-NWD]
-
-https://www.strava.com/routes/3090040279279305744[Lanes3]
-
-==== Trains
-
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
-
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
-
-https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/tomorrow/1030/dep/tomorrow/1230/dep[NWD/LFD National Rail tomorrow! departing 10:30]
-
-
-==== Timings
-
-[cols="1,1,1,1"]
-|===
-
-|Section|Distance|Climb|Duration
-
-|Home NWD
-|7.35 km
-|97 m
-|0:24
-
-|NWD/LFD
-|X
-|X
-|0:37
-
-|Ride
-|41.35 km
-|575 m
-|2:12
-
-|LFD/NWD
-|X
-|X
-|0:37
-
-|NWD Home
-|4.7 mile
-|300 ft
-|0:30
-
-|Total
-|X
-|X
-|4:30
-
-
-|===
-
-=== Orpington Ightham return
-
-https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
-
-https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
-
-
-=== Scheduled Departures
-
-https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/070523/1030/dep[DMK/SAY National Rail 2023-05-07 departing 10:30]
-
-
-https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:15]
 
 
 == Station Codes
