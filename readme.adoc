@@ -116,7 +116,12 @@ https://www.strava.com/routes/3090040279279305744[Lanes3]
 |300 ft
 |0:30
 
-|Train
+|NWD/LFD
+|X
+|X
+|0:37
+
+|LFD/NWD
 |X
 |X
 |0:37
@@ -125,6 +130,9 @@ https://www.strava.com/routes/3090040279279305744[Lanes3]
 |41.35 km
 |575 m
 |2:12
+
+
+
 
 |===
 
