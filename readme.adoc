@@ -22,6 +22,12 @@
 |WDU
 |West Dulwich
 
+|NWD
+|Norwood Junction
+
+|LFD
+|Lingfield
+
 |===
 
 [cols="1,1,1,1"]
