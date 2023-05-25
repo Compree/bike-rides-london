@@ -231,6 +231,9 @@ https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departure
 |LFD
 |Lingfield
 
+|ECR
+|East Croydon
+
 |LBG
 |London Bridge
 
