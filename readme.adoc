@@ -31,6 +31,16 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/toda
 |11:10
 |11:41
 
+|LFD
+|ECR
+|16:13
+|16:45
+
+|LFD
+|ECR
+|16:43
+|17:14
+
 
 |NWD
 |LFD
