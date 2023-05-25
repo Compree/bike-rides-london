@@ -12,6 +12,8 @@ https://www.strava.com/routes/3090040279279305744[Lanes3]
 
 ==== Trains
 
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/ECR[Live from East Croydon]
+
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
