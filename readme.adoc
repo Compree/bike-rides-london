@@ -59,6 +59,15 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 |===
 |From|To|Dep|Arr
 
+|WDU
+|ORP
+|10:40
+|11:09
+
+|WDU
+|ORP
+|11:10
+|11:XX
 
 |ECR
 |LFD
