@@ -12,18 +12,40 @@ https://www.strava.com/routes/3090071398187569168[Dul-NWD]
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
 
-==== Trains
+== Live Departure Boards
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/NHD[Live from Nunhead]
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
+
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/ECR[Live from East Croydon]
 
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from West Norwood]
+https://ojp.nationalrail.co.uk/service/ldbboard/dep/NWD[Live from Norwood Junction]
 
 https://ojp.nationalrail.co.uk/service/ldbboard/dep/LFD[Live from Lingfield]
 
-https://ojp.nationalrail.co.uk/service/timesandfares/ECR/LFD/today/1030/dep/tomorrow/1530/dep[ECR/LFD National Rail today dep 1030]
+https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
+
+==== Trains timetables Scheduled Departures
+
+===== Today
+
+https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/today/1015/dep/today/1530/dep[WDU/ORP National Rail today dep 10:15]
 
 https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/today/1230/dep[NWD/LFD National Rail today departing 10:30]
 
+https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/today/1030/dep[DMK/SAY National Rail today departing 10:30]
+
+
+===== Tomorrow
+
+https://ojp.nationalrail.co.uk/service/timesandfares/ECR/LFD/tomorrow/1030/dep/tomorrow/1530/dep[ECR/LFD National Rail Tomorrow dep 10:30]
+
+https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail Tomorrow dep 10:15]
+
+==== Cut down
 
 [cols="1,1,1,1"]
 |===
@@ -133,12 +155,6 @@ https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
 https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
 
 
-=== Scheduled Departures
-
-https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/070523/1030/dep[DMK/SAY National Rail 2023-05-07 departing 10:30]
-
-
-https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail tomorrow! departing 10:15]
 
 
 == Cut down timetable
@@ -227,16 +243,6 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 
 |===
 
-== Live Departure Boards
-
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/NHD[Live from Nunhead]
-
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/WDU[Live from West Dulwich]
-
-https://ojp.nationalrail.co.uk/service/ldbboard/dep/ORP[Live from Orpington]
-
-
-https://www.nationalrail.co.uk/times_fares/ldb.aspx[National Rail Live departures]
 
 
 == Station Codes
