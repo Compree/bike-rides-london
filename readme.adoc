@@ -8,6 +8,14 @@
 
 https://www.strava.com/athlete/routes[If you use Strava, your routes should be here]
 
+===== Orpington Ightham return
+
+https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
+
+https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
+
+===== Others
+
 https://www.strava.com/routes/3090071398187569168[Dul-NWD]
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
@@ -147,14 +155,6 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 
 
 |===
-
-=== Orpington Ightham return
-
-https://www.strava.com/routes/3089931437965089844[IGHT-ORP (14.9)]
-
-https://www.strava.com/routes/3089918939211140634[ORP-IGHT (15.6)]
-
-
 
 
 == Cut down timetable
