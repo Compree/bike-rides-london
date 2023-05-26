@@ -44,6 +44,16 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/toda
 |17:14
 
 
+|===
+
+=== Norwood Junction to Lingfield seems to have been cut from the timetable
+
+[cols="1,1,1,1"]
+|===
+|From|To|Dep|Arr
+
+
+
 |NWD
 |LFD
 |10:37
@@ -68,6 +78,7 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/toda
 
 
 |===
+
 ==== Timings
 
 [cols="1,1,1,1"]
@@ -75,12 +86,12 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/toda
 
 |Section|Distance|Climb|Duration
 
-|Home ECR
+|Dulwich ECR
 |12 km
 |100 m
 |0:50
 
-|Home NWD
+|Dulwich NWD
 |7.35 km
 |97 m
 |0:24
@@ -100,7 +111,7 @@ https://ojp.nationalrail.co.uk/service/timesandfares/NWD/LFD/today/1030/dep/toda
 |X
 |0:37
 
-|NWD Home
+|NWD Dulwich
 |4.7 mile
 |300 ft
 |0:30
