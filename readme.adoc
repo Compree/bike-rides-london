@@ -6,6 +6,8 @@
 
 ==== Strava Bike Routes
 
+https://www.strava.com/athlete/routes[If you use Strava, your routes should be here]
+
 https://www.strava.com/routes/3090071398187569168[Dul-NWD]
 
 https://www.strava.com/routes/3090040279279305744[Lanes3]
