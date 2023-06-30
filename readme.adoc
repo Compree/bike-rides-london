@@ -87,6 +87,25 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 
 |===
 
+Herne Hill to Swanly
+
+[cols="1,1,1,1"]
+|===
+|From|To|Dep|Arr
+
+|HNH
+|SAY
+|10:53
+|11:17
+
+|HNH
+|SAY
+|11:23
+|11:47
+
+|===
+
+
 === Norwood Junction to Lingfield seems to have been cut from the timetable
 
 [cols="1,1,1,1"]
