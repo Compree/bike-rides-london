@@ -87,7 +87,7 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 
 |===
 
-Herne Hill to Swanly
+==== Herne Hill to Swanly
 
 [cols="1,1,1,1"]
 |===
@@ -102,6 +102,17 @@ Herne Hill to Swanly
 |SAY
 |11:23
 |11:47
+
+|SAY
+|HNH
+|15:41
+|16:04
+
+|SAY
+|HNH
+|16:11
+|16:34
+
 
 |===
 
