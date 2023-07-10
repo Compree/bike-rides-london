@@ -53,6 +53,10 @@ https://ojp.nationalrail.co.uk/service/timesandfares/ECR/LFD/tomorrow/1030/dep/t
 
 https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/tomorrow/1530/dep[WDU/ORP National Rail Tomorrow dep 10:15]
 
+==== Edit the date, time, yourself
+
+https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/190723/0900/dep[DMK/SAY (ddmmyy) 190723 (hhmm) 0900 (dep|arr)]
+
 ==== Cut down
 
 [cols="1,1,1,1"]
