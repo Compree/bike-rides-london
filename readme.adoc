@@ -55,7 +55,13 @@ https://ojp.nationalrail.co.uk/service/timesandfares/WDU/ORP/tomorrow/1015/dep/t
 
 ==== Edit the date, time, yourself
 
+Example of DMK (Denmark Hill) to SAY (Swanley) on 19JUL2023 departing 09:00 onwards
+
 https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/190723/0900/dep[DMK/SAY (ddmmyy) 190723 (hhmm) 0900 (dep|arr)]
+
+Example with Return showing `arr` for Arrival and `dep` for Departure times
+
+https://ojp.nationalrail.co.uk/service/timesandfares/DMK/SAY/190723/1015/arr/190723/1215/dep[DMK/SAY/190723/1015/arr/190723/1215/dep]
 
 ==== Cut down
 
